@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago Lopes</h1>
 <h3 align="center">Technical leader, enthusiast of best practices and development standards.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagodevweb&label=Profile%20views&color=0e75b6&style=flat" alt="tiagodevweb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagodevweb" alt="tiagodevweb" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tiagodevweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagodevweb" height="30" width="40" /></a>
