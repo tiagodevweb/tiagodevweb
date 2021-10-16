@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tiago Lopes</h1>
-<h3 align="center">Technical leader, enthusiast of best practices and development standards.</h3>
+<h1 align="left">Hi 👋, I'm Tiago Lopes</h1>
+<h3 align="left">Technical leader, enthusiast of best practices and development standards.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
