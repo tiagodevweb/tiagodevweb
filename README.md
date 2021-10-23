@@ -1,5 +1,5 @@
-<h1 align="left">Olá, me Tiago Lopes</h1>
-<h3 align="left">Líder técnico, entusiasta das melhores práticas e padrões de desenvolvimento.</h3>
+<h1 align="left">Hi, Tiago Lopes</h1>
+<h3 align="left">Technical leader, enthusiast of best practices and development standards.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
