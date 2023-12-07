@@ -1,5 +1,5 @@
 <h1 align="left">Tiago Lopes</h1>
-<h3 align="left">Sou formado em Sistemas para Internet pelo IFRS - Instituto Federal do Rio Grande do Sul, atualmente atuo como líder técnico em projetos web mantendo ambientes padronizados, colaboro nos processos de definição e execução de tarefas, controle de qualidade das implementações e implantação das mesmas em produção, contribuo com a automatização de processos CI/CD de aplicações. Paralelo a isso estudo novas tecnologias com objetivo de disseminar a cultura devops nas equipes que faço parte.</h3>
+<p align="left">Sou formado em Sistemas para Internet pelo IFRS - Instituto Federal do Rio Grande do Sul, atualmente atuo como líder técnico em projetos web mantendo ambientes padronizados, colaboro nos processos de definição e execução de tarefas, controle de qualidade das implementações e implantação das mesmas em produção, contribuo com a automatização de processos CI/CD de aplicações. Paralelo a isso estudo novas tecnologias com objetivo de disseminar a cultura devops nas equipes que faço parte.</p>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
